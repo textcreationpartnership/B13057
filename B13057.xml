@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation to restraine the transportation of corne, vvooll, vvooll-fells, fullers earth, and leather.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13057</idno><idno type="EEBO-CITATION">99892593</idno>
+  <idno type="VID">185740</idno>
+  <idno type="EEBO-PROQUEST">2240936916</idno>
+  
+            <idno type="STC">STC 8993</idno>
+            <idno type="STC">Interim Tract Supplement Guide 506.h.12[13]</idno>
+            <idno type="STC">ESTC S123761</idno>
+            <idno type="PROQUEST">ocm99892593</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892593e"/>
+            <note>(EEBO-TCP ; phase 2, no. B13057)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185740)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C2:3[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation to restraine the transportation of corne, vvooll, vvooll-fells, fullers earth, and leather.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[3] p.   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Barker, printer to the Kings most Excellent Maiestie: and by the assignes of Iohn Bill,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>M.DC.XXXII. [1632].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dated at end: Hampton Court, the last day of September, in the eighth yeere of Our Reigne.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Arms 21 (with C R at the top); Steele notation: the nesse 2) hath 3) to of.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Hides and skins --  Law and legislation --  England --  Early works to 1800.</term>
+               <term type="topical_term">Wool industry --  Law and legislation --  England --  Early works to 1800.</term>
+               <term type="topical_term">Corn industry --  Law and legislation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:185740:1"/>
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q xml:lang="frm">DIEV ET MON DROIT</q>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown and flanked by the English lion and Tudor rose on one side and the Scottish unicorn and thistle on the other</figDesc>
+               </figure>
+            </head>
+            <head>❧ By the King.</head>
+            <head type="sub">❧ A Proclamation to restraine the transportation of Corne, Wooll, Wooll-fells, Fullers earth, and Leather.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>He Kings most Excellent MAIESTIE taking into consideration the</hi> manifold euil practises, which for priuate gaine are too often put in vre, as well by Corne-masters &amp; Hoorders of Corne, as by merchants and others, to inhance the prices of Corne and Graine to the generall pre<g ref="char:EOLhyphen"/>iudice of all other his Maiesties Subiects, especially labouring men, and those of the poorer sort, which hath appeared not onely in the time of the late dearth, but in the yeere now past, when by the good<g ref="char:EOLhyphen"/>nesse of God, there was such plenty and abundance of Corne as seldom hath been greater; and yet the rates and prices of Corne in many parts of this Kingdome, (espe<g ref="char:EOLhyphen"/>cially in the Citie of <hi>London</hi> and the parts neere adioyning) were kept vp at farre higher prices, then was fit to be, in a time of so great &amp; generall plenty; And that howsoeuer by the prouident &amp; constant care of His Maiestie, &amp; His priuie Councell, transportation of Corne was restrained euen in that plentifull yeere; yet in many parts of the Kingdome, false rumors were and are spread and divulged, of great transportation of Corne licensed and authorised, to the great dishonour of His Maiestie, and the State, and of a wicked purpose to keepe vp Corne and Graine at immode<g ref="char:EOLhyphen"/>rate prices; His Maiestie, with the aduice of His Priuie Councell, doth hereby publish and de<g ref="char:EOLhyphen"/>clare, That all the said rumors were most false, vntrue, and scandalous, and that the Authors and divulgers thereof, haue iustly incurred His Maiesties displeasure, and the seuere censure of His Lawes, which His Maiestie doeth hereby require and command to be strictly and seuerely inflicted vpon all such as haue or shall offend in that behalfe, by all and singular his Iudges, Iu<g ref="char:EOLhyphen"/>stices, Magistrates, Officers and ministers to whom it doeth appertaine, that by their example, others may be deterred from the like presumption, in time to come. And albeit His Maiestie is well satisfied that by the remaining store of the last yeere, and by the increase of this present yeere, there is very ample &amp; good prouision of Corne, sufficient to supply the whole Kingdom at easie and reasonable prices; yet considering the want of Corne in diuers other parts beyond the Seas, might occasion a transportation thereof from hence, which would necessarily draw on an in<g ref="char:EOLhyphen"/>hancement of prices if it should be permitted; Therefore his Maiestie holding it necessary to pro<g ref="char:EOLhyphen"/>uide,
+<pb facs="tcp:185740:2"/>that his owne Subiects in generall may enioy the good blessing of plenty which God hath vouchsafed to this Realme, and that the same be not turned to the inriching onely of a few gree<g ref="char:EOLhyphen"/>die Cormorants, doth by like Aduice of His Priuie Councell, prohibite and forbid, that from henceforth for the space of one yeere next ensuing, and from the end of that yeere, vntill his Ma<g ref="char:EOLhyphen"/>iestie shall declare His pleasure to the contrary, no Corne or Graine be transported, or carried out of this his Maiesties Realme of <hi>England,</hi> or Dominion of <hi>Wales,</hi> vnto any other part or place whatso<g ref="char:EOLhyphen"/>euer, vpon paine of his Maiesties indignation and displeasure, and of such punishments to be inflic<g ref="char:EOLhyphen"/>ted aswel vpon the offendors themselues, their Ayders, Procurers, Abbettors and Fauorers, whe<g ref="char:EOLhyphen"/>ther they be Iustices of Peace, Officers of his Maiesties Customes or Ports, or any other whoso<g ref="char:EOLhyphen"/>euer, as so high a contempt and offence doeth demerit.</p>
+            <p>And because His Maiestie is informed, that in diuers Counties of this Realme neare the Sea Coast, it hath been practised to buy and prouide great quantity of Corne, and bring the same vnto, or neare the Sea-Coast ready for transportation, and then in some one or two markets to sell some small quantitie thereof, or of other Corne at lower prices then the same were bought, and vpon some faint and partiall certificate from some Iustices of Peace, or other officers, that Corne in those Markets was sold vnder the rates limited by the Statute, haue procured the same to be transported beyond the Seas; His Maiestie requireth by like Aduice of His Priuie Councell, that those and all other fraudulent practises vnduely to procure Transportation of Corne hereto<g ref="char:EOLhyphen"/>fore committed, or hereafter to be committed; be strictly and diligently inquired and looked into, and condigne punishment inflicted vpon all offenders therein.</p>
+            <p>And whereas His Maiestie is informed, that sundry Merchants, Strangers, and Aliens of Forreigne Countreys in Amitie with His Maiestie, haue accustomed to bring their Shippes and Vessells into some of the Ports, Hauens, or Creekes of this Realme vnuictualed, of purpose, that vnder colour of taking in a supply of fresh victuals for their necessities, they might victuall them<g ref="char:EOLhyphen"/>selues and their Ship-company from hence for their voyages, whereby they carry away much Corne, Beefe, and other victualls, and prohibited Commodities, which is an equall mischiefe with Transportation; His Maiestie doeth hereby declare, and command, that the same bee not hereafter suffered to bee done. Notwithstanding, if any such Aliens or Strangers, shall by di<g ref="char:EOLhyphen"/>stresse of weather, or other ineuitable Accident, be driuen into any of the Ports, Hauens, Creekes, or Harbours of this Realme, His Maiestie is well pleased, that they shall haue liberty to prouide and take vp such quantities of victualls, and other necessaries, as shall be sufficient for their neces<g ref="char:EOLhyphen"/>sary sustenance in their returne thence into their owne Countrey onely, and not otherwise.</p>
+            <p>And further His Maiestie doeth by like aduice of His Priuy Councell, straitly prohibite and forbid, That no Wooll, Wooll-Fells, Fullers-earth, tanned Leather, or raw Hides be at any time hereafter transported, or carried out of this His Maiesties Realme of <hi>England,</hi> or Dominion of <hi>Wales,</hi> vnto any other Port, or Place whatsoeuer, vpon paine of His Maiesties indignation and displeasure, vnder such punishments to be inflicted, aswell vpon the Offenders themselues, their Ayders, Procurers, Abbettors, and Fauourers, whether they be Iustices of Peace, Offi<g ref="char:EOLhyphen"/>cers of His Maiesties Customes or Ports, or any other whosoeuer, as so high a contempt and of<g ref="char:EOLhyphen"/>fence doeth demerite.</p>
+            <p>And His Maiestie being likewise informed, that great and manifold abuses haue beene commit<g ref="char:EOLhyphen"/>ted in times past, aswell by the corruption, or negligence in the inferiour Officers and ministers of His Maiesties Customes, aswell in permitting Wooll, Wooll-Fells, and Fullers-earth, to be transported; As also touching transportation of Corne, Leather, and raw Hides, in permitting the same to passe, either without any Licence, or in greater quantities then hath beene Licensed,
+<pb facs="tcp:185740:3"/>or in suffering the same to passe beyond the Seas, vnder colour of transportation from Port to Port within the Realme; His Maiestie doeth in like maner Will and Command, that all abuses in that behalfe, either heretofore done, or hereafter to be done, be strictly and diligently enquired, found out, and punished. And for auoyding the like in time to come, His Maiestie willeth and Commandeth, that no transportation of any Corne, Wooll, Wooll-Fells, Fullers-earth, Lea<g ref="char:EOLhyphen"/>ther, or raw Hides from Port to Port within this Realme bee permitted, but vpon good bonds with sufficient Sureties responsall, and resident within the Realme, for whose sufficiencie, the Officers of His Maiesties Customes taking the same bonds, will bee answerable; In the con<g ref="char:EOLhyphen"/>dition of which Bonds, the true quantity of the Corne, and Fullers-earth, and the number and weight of the bags or sackes of Wooll, and number of Wooll-Fells, Hides, and Leather ship<g ref="char:EOLhyphen"/>ped to bee carried from Port to Port, shall bee set downe; And that no Certificate of the landing thereof, or of landing any Wooll out of <hi>Ireland,</hi> bee made vpon an entry alone, either at sight or otherwise, before such time as the goods bee landed, and then the Certificate to containe the iust quantity, weight, and numbers of them so landed, and no more. And to the intent the Customers and Officers of His Maiesties Ports, executing their places by deputies, may not shift off the of<g ref="char:EOLhyphen"/>fences aforesaid, or others of like nature (when they happen to bee discouered) vpon their depu<g ref="char:EOLhyphen"/>ties, ministers, or seruants, who haue little or nothing to be answerable for their offences; His Maiestie doeth signifie and declare His will and pleasure, that in euery such case, euery person or persons, shall according to the Law be answerable aswell for his owne offences, as for the faults of his and their deputies, ministers, and seruants, by forfeiture and seizure of their Offices, or otherwise in the seuerest and strictest wayes that by the lawes of the Realme are appointed or permitted, without any fauour or conniuence.</p>
+            <p>And because His Maiestie is desirous, that this His gracious prouidence and prouision should receiue due effect for the generall Weale of His people, His Maiestie is pleased, if any person or persons will at any time hereafter disclose or discouer vnto His Maiesties Priuy Councell, or to the Lord High Treasurer of <hi>England,</hi> or to His Maiesties Attorney Generall, any persons that haue offended either in spreading such rumours as aforesaid, or in transporting of Corne, Victu<g ref="char:EOLhyphen"/>alls, Wooll, Wooll-Fells, Fullers-earth, Leather, or raw Hides contrary to His Maiesties Pro<g ref="char:EOLhyphen"/>clamation, or any Law, or other Proclamation formerly published in that behalfe, and will pro<g ref="char:EOLhyphen"/>duce sufficient proofe for the conuicting of the said offenders, that in euery such case, the one halfe of the fine and summes of money forfeited, or to bee imposed vpon the said offenders shall bee al<g ref="char:EOLhyphen"/>lowed vnto the party or parties making such discouery, as His Maiesties free bounty and reward. His Maiestie doeth hereby authorize aswell the Lord Treasurer, Chancelor, and Barrons of His Exchequer, as all other Iudges, Iustices, Officers and Ministers of any other His Courts of Iustice whatsoeuer, to whom it shall appertaine, without any further or other Warrant, to giue order for the leuying, issuing, paying, and deliuering of the said moyety of the fines, and summes of money according to His Maiesties gracious pleasure herein declared as aforesaid.</p>
+            <closer>
+               <dateline>Giuen at Our Honour of Hampton Court, <date>the last day of September, in the eighth yeere of Our Reigne.</date>
+               </dateline>
+               <lb/> God saue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>❧ Imprinted at London by ROBERT BARKER, Printer to the Kings most Excellent MAIESTIE: And by the Assignes of IOHN BILL. M.DC.XXXII.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
